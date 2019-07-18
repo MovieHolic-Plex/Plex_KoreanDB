@@ -5,8 +5,6 @@ PLEX Renamer_DB for KOREAN
 요구사항
 --------
 
-   .. code-block:: shell
-
        pip install beautifulsoup4
 
 개발배경

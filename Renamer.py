@@ -28,7 +28,7 @@ def Folder_Check(dir):
     files = os.listdir(dir)
     for file in files:
         fullFilename = os.path.join(dir, file)
-        if os.path.isdir(file) == True:
+        if os.path.isdir(fullFilename) == True:
             Folder_Check(fullFilename)
         else:
             ext = os.path.splitext(fullFilename)[1].replace('.','').lower()

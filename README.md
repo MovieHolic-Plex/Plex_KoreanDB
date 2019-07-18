@@ -1,3 +1,16 @@
+PLEX Renamer_DB for KOREAN
+==================
+
+
+요구사항
+--------
+
+   .. code-block:: shell
+
+       pip install beautifulsoup4
+
+개발배경
+-------------
 누군가가 대신해서 Plex에 인식시킬 파일들의 이름을 관리해주는 건 어떤가 싶어서 만들어봤습니다.
 
 아무래도 github는 처음이다 보니까 사용법을 잘 모릅니다만,

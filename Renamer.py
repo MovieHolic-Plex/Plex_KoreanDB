@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 
 # 데이터베이스 주소. (변경하지 마세요)
-github_link = r'https://raw.githubusercontent.com/MovieHolic-Plex/Plex_KoreanDB/master/Names'
+github_link = r'https://raw.githubusercontent.com/MovieHolic-Plex/Plex_Korean_Renamer/master/Names'
 
 # 이름이 바뀔 컨텐츠들이 있는 폴더들. 하위 폴더까지 검색함.
 Target_Folders = [r'E:\test1' , r'E:\test2' , r'E:\test3']
